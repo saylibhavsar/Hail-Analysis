@@ -1,0 +1,7 @@
+matplotlib
+matplotlib-inline
+numpy
+numpydoc
+pandas==1.4.2
+seaborn
+streamlit==1.15.1
